@@ -23,7 +23,7 @@ GlobalGoods is a modern, responsive e-commerce platform built with React, Vite, 
 - **Testing**: React Testing Library
 
 #### Getting Started:
-- Clone the repository: `git clone [repository URL]`
+- Clone the repository: `git clone (https://github.com/Lindrit14/GlobalGoods.git)`
 - Install dependencies: `npm install`
 - Start the development server: `npm run dev`
 - Build for production: `npm run build`
